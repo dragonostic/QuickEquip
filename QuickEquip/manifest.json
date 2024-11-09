@@ -1,0 +1,10 @@
+{
+  "Id": "QuickEquip",
+  "AssemblyPath": "QuickEquip.dll",
+  "Metadata": {
+    "Name": "QuickEquip",
+    "Author": "dragonostic",
+    "Version": "1.0.0",
+    "Description": "Allows you to quickly switch between items on your hotbar even while casting/fishing with your rod!"
+  }
+}
